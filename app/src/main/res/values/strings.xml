@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora Jedi</string>
+    <string name="text_titulo">Caculadora Jedi</string>
+    <string name="btn_num_0">0</string>
+    <string name="btn_num_1">1</string>
+    <string name="btn_num_2">2</string>
+    <string name="btn_num_3">3</string>
+    <string name="btn_num_4">4</string>
+    <string name="btn_num_5">5</string>
+    <string name="btn_num_6">6</string>
+    <string name="btn_num_7">7</string>
+    <string name="btn_num_8">8</string>
+    <string name="btn_num_9">9</string>
+    <string name="btn_num_.">.</string>
+    <string name="btn_num_sum">+</string>
+    <string name="btn_num_sus">-</string>
+    <string name="btn_num_mul">x</string>
+    <string name="btn_num_div">/</string>
+    <string name="btn_num_era">Delete</string>
+    <string name="btn_num_equals">=</string>
+    <string name="resul">result</string>
+</resources>
